@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bb1bc6e-dddb-4470-898e-e55be9124893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class and functions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_modules/geometry_calculations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_modules/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandwich.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Programming Fundamentals/sample_modules/string_modules/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Programming Fundamentals/sample_modules/string_modules/string_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Programming Fundamentals/Functions Samples/Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class and functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Programming Fundamentals/Functions Samples/class and functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_modules/geometry_calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Programming Fundamentals/sample_modules/math_modules/geometry_calculations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_modules/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Programming Fundamentals/sample_modules/math_modules/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandwich.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Programming Fundamentals/Functions Samples/sandwich.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +42,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Function.executor": "Run",
+    "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
     "Python.sandwich.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,7 +55,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python Programming Fundamentals/Functions Samples" />
+      <recent name="$PROJECT_DIR$/Python Programming Fundamentals" />
+      <recent name="$PROJECT_DIR$/sample_modules/math_modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -71,7 +77,30 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Programming Fundamentals/Functions Samples/Function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sample_modules/string_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample_modules/string_modules/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +123,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample_modules/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample_modules/math_modules/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +146,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sandwich.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Programming Fundamentals/Functions Samples/sandwich.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,6 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.sandwich" />
         <item itemvalue="Python.Function" />
@@ -149,7 +179,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754105810357</updated>
-      <workItem from="1754105811434" duration="4505000" />
+      <workItem from="1754105811434" duration="8082000" />
     </task>
     <servers />
   </component>
@@ -160,5 +190,6 @@
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1754168085324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sample_modules" />
     <SUITE FILE_PATH="coverage/PythonProject$Function.coverage" NAME="Function Coverage Results" MODIFIED="1754105998504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$sandwich.coverage" NAME="sandwich Coverage Results" MODIFIED="1754106293888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1754170762948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sample_modules/string_modules" />
   </component>
 </project>
